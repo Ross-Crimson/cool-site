@@ -51,6 +51,7 @@ button {
     background-color: unset;
     border: unset;
     color: var(--white);
+    cursor: pointer;
 }
 
 button#chat-button {
